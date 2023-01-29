@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Blöcker"
+  given-names: "Christopher"
+  orcid: "https://orcid.org/0000-0001-7881-2496"
+- family-names: "Mejtoft"
+  given-names: "Thomas"
+  orcid: "https://orcid.org/0000-0002-9283-9246"
+- family-names: "Norgren"
+  given-names: "Nina"
+  orcid: "https://orcid.org/0000-0002-3823-1555"
+title: "python-in-a-week-quiz"
+version: v1.0
+doi: 10.5281/zenodo.7582004
+date-released: 2023-01-29
+url: "https://github.com/chrisbloecker/python-in-a-week-quiz"
