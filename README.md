@@ -2,7 +2,7 @@
 
 [![DOI](https://zenodo.org/badge/594553590.svg)](https://zenodo.org/badge/latestdoi/594553590)
 
-In this companion repository for the paper _Python in a Week: Conceptual Tests for Learning and Course Development_, we present our concept inventory for identifying programming misconceptions which consists of 21 short questions.
+In this companion repository for the paper _Python in a Week: Conceptual Tests for Learning and Course Development_, we present our quiz questions, a learning activity and tool for identifying programming misconceptions.
 
 
 # Question 1: Variable assignments
